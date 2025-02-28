@@ -1,0 +1,2 @@
+Stavite sve potrebne dsx fajlove u "dsx input files" folder i kliknite DSX_to_SRT_Converter.exe ako sve prodje uspesno izaci ce pop-up "The files have been converted to srt".
+Folderima ne menjati imena jer su hardkodovana.
